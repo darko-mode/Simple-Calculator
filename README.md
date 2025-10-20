@@ -30,8 +30,8 @@ Inspired by glassmorphism and modern UI trends, this calculator supports basic a
 
 ## 🖼️ Demo
 
-![Light Mode](https://raw.githubusercontent.com/darko-mode/Simple-Calculator/main/demo-light.png)
-![Dark Mode](https://raw.githubusercontent.com/darko-mode/Simple-Calculator/main/demo-dark.png)
+![App Screenshot](./demo-light.png)
+![App Screenshot](./demo-black.png)
 
 ---
 
