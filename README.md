@@ -5,7 +5,7 @@ Inspired by glassmorphism and modern UI trends, this calculator supports basic a
 
 ---
 
-![Calculator Screenshot](https://raw.githubusercontent.com/darko-mode/Simple-Calculator/demo.png)
+![App Screenshot](./demo.png)
 
 ## ✨ Features
 
